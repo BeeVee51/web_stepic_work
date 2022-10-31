@@ -1,0 +1,27 @@
+.personal_data
+{
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.gender
+{
+    display: flex;
+}
+
+label
+{
+    width: 80px;
+}
+
+fieldset
+{
+    width: 600px;
+    margin-bottom: 20px;
+}
+
+.hobby
+{
+    display: flex;
+    padding-right: 50px;
+}
